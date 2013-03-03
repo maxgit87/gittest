@@ -14,4 +14,4 @@ class MyClass
 
 ?>
 
-<p>some html</p>
+<p>some html and some more</p>
