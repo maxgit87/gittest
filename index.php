@@ -12,6 +12,8 @@ class MyClass
 	}
 }
 
+
+echo 'working on branch 2';
 ?>
 
 <p>some html and some more</p>
